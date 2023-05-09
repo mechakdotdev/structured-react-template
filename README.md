@@ -1,5 +1,6 @@
 # structured-react-template
-A React template for proper folder structure with React JS and TypeScript
+A React template for proper folder structure with React JS and TypeScript intended to follow best practises.
+
 
 Example
 ```
